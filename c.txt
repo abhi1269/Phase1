@@ -1,2 +1,4 @@
-1st line:wq!
+1st line:w
+This is 2nd line
+test file
 
